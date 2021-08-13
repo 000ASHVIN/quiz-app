@@ -9,7 +9,7 @@
 					</div>
 				</li>
 
-				<li class="menu">
+				<!-- <li class="menu">
 					<a href="#">Contact</a>
 					<ul class="sub-menu">
 						<li>
@@ -26,7 +26,7 @@
 						</li>
 					</ul>
 					<div class="right-slide"><div class="content">Contact</div></div>
-				</li>
+				</li> -->
 				<li>
 					<router-link to="/about">About</router-link>
 					<div class="right-slide">
